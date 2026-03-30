@@ -1,0 +1,12 @@
+target/
+*.class
+*.jar
+*.log
+.git
+.gitignore
+.idea
+*.iml
+*.md
+benchmark_data.csv
+benchmark_results/
+results/
